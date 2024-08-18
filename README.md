@@ -33,7 +33,7 @@ A classe `ProdutoServicoGerenciamento` depende da abstração `IRepositorioProdu
 1. Clone este repositório para o seu ambiente local:
 
     ```bash
-    git clone https://github.com/seu-usuario/gerenciamento-produtos.git
+    git clone https://github.com/Matheus-Bertolini/Projeto-SOLID.git
     ```
 
 2. Abra o projeto em seu ambiente de desenvolvimento preferido.
